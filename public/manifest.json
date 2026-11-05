@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "AgroSmart – Smart Plant Monitoring & Irrigation System",
+  "short_name": "AgroSmart",
+  "description": "Smart IoT agriculture mobile app for ESP32 hardware and sensor monitoring, automated drip irrigation, agronomy analytics, and AI plant care.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1b4332",
+  "theme_color": "#1b4332",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/src/assets/images/agrosmart_brand_logo_1793772055945.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/agrosmart_brand_logo_1793772055945.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

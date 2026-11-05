@@ -1,0 +1,7 @@
+{
+  "name": "AgroSmart – Smart Plant Monitoring & Irrigation System",
+  "description": "Professional IoT agriculture mobile application for ESP32 hardware and sensor monitoring, automated drip irrigation, agronomy analytics, and AI plant care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
